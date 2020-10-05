@@ -19,7 +19,8 @@ function randomText() {
     'What\'s beautiful about the internet is you don\'t know who I am and I don\'t know either.',
     'Oh, so you\'re a node dev, huh? List every NPM package.',
     'WHICH TAB IS THAT MUSIC COMING FROM?!?!',
-    'I know for a *fact* that all of my parentheses are in the righ- oh wait, found the problem.'
+    'I know for a *fact* that all of my parentheses are in the righ- oh wait, found the problem.',
+    'I\'m not antisocial, I\'m just not user friendly.'
   ];
   var randomNumber = Math.floor(Math.random()*textArray.length);
 
