@@ -1,2 +1,0 @@
-# Security Policy
-I don't really have much of a security policy, this website can't really be *in*secure. If *somehow* you find a security issue, feel free to [shoot me an email](mailto:camthehelpdesk@gmail.com?subject=I%20found%20a%20security%20vulnerability%20in%20your%20website...%20(%3F!%3F)&body=So%2C%20yeah.%20Here's%20what%20I%20found%3A).
