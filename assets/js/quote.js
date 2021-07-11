@@ -20,7 +20,7 @@ function randomText() {
     'Oh, so you\'re a node dev, huh? List every NPM package.',
     'WHICH TAB IS THAT MUSIC COMING FROM?!?!',
     'I know for a *fact* that all of my parentheses are in the righ- oh wait, found the problem.',
-    'I\'m not antisocial, I\'m just not user friendly.',
+    'I\'m not antisocial; I\'m just not user friendly.',
     'while :; do rm -rf node_modules && npm install; done;'
   ];
   var randomNumber = Math.floor(Math.random()*textArray.length);
